@@ -29,10 +29,15 @@ Icons & Fonts: Boxicons, Google Fonts
 File Structure
 
 /portfolio
-│── index.html        # Main HTML file
-│── style.css         # Stylesheet for design
-│── script.js         # JavaScript for animations and interactions
-│── assets/           # Images and other media files
+
+│── index.html     
+# Main HTML file
+│── style.css      
+# Stylesheet for design
+│── script.js     
+# JavaScript for animations and interactions
+│── assets/        
+# Images and other media files
 
 Installation & Usage
 
